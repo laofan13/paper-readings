@@ -62,7 +62,6 @@ The sections are as follows:
 - [ ]  [Cicada: Dependably Fast Multi-Core In-Memory Transactions, SIGMOD, 2017](https://15721.courses.cs.cmu.edu/spring2020/papers/04-mvcc2/lim-sigmod2017.pdf)
 - [X]  [An Empirical Evaluation of In-Memory Multi-Version Concurrency Control, VLDB, 2017](http://www.vldb.org/pvldb/vol10/p781-Wu.pdf)
 - [ ] [An Evaluation of Distributed Concurrency Control, VLDB, 2017](https://www.vldb.org/pvldb/vol10/p553-harding.pdf)
-- [ ] 
 
 ### Indexes Data Structures
 #### LSM-Tree
