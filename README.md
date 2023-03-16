@@ -16,7 +16,7 @@ The sections are as follows:
     - [Query Compilation](#query-compilation)
     - [Data warehouse and Datalake](#data-warehouse-and-datalake)
     - [NoSQL Systems](#nosql-systems)
-    - [](#)
+    - [NewSql Systems](#newsql-systems)
     - [HTAP](#htap)
     - [Benchmark \& Testing](#benchmark--testing)
   - [Distributed system](#distributed-system)
@@ -97,7 +97,7 @@ The sections are as follows:
 - [ ] [Dynamo: Amazon’s Highly Available Key-value Store, SOSP, 2007](https://sites.cs.ucsb.edu/~agrawal/fall2009/dynamo.pdf)
 - [ ] [Cassandra - A Decentralized Structured Storage System, SOSP, 2010](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 
-### 
+### NewSql Systems
 - [ ] [Spanner: Google’s Globally-Distributed Database, OSDI,2012](https://static.googleusercontent.com/media/research.google.com/zh-CN//archive/spanner-osdi2012.pdf)
 
 ### HTAP
