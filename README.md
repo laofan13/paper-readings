@@ -59,6 +59,7 @@ The sections are as follows:
 - [ ]  [Serializable snapshot isolation in PostgreSQL, 2012](https://arxiv.org/pdf/1208.4179.pdf)
 - [ ]  [High-Performance Concurrency Control Mechanisms for Main-Memory Databases, VLDB, 2011](https://15721.courses.cs.cmu.edu/spring2020/papers/04-mvcc2/p298-larson.pdf)
 - [ ]  [Fast Serializable Multi-Version Concurrency Control for Main-Memory Database Systems, SIGMOD, 2015](https://15721.courses.cs.cmu.edu/spring2020/papers/04-mvcc2/p677-neumann.pdf)
+- [ ]  [Scalable Serializable Snapshot Isolation for MulticoreSystems, ICDE, 2014](https://ieeexplore.ieee.org/abstract/document/6816693/)
 - [ ]  [Cicada: Dependably Fast Multi-Core In-Memory Transactions, SIGMOD, 2017](https://15721.courses.cs.cmu.edu/spring2020/papers/04-mvcc2/lim-sigmod2017.pdf)
 - [X]  [An Empirical Evaluation of In-Memory Multi-Version Concurrency Control, VLDB, 2017](http://www.vldb.org/pvldb/vol10/p781-Wu.pdf)
 - [ ] [An Evaluation of Distributed Concurrency Control, VLDB, 2017](https://www.vldb.org/pvldb/vol10/p553-harding.pdf)
