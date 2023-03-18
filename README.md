@@ -10,6 +10,8 @@ The sections are as follows:
     - [Query Optimizer](#query-optimizer)
     - [Transaction](#transaction)
     - [Indexes Data Structures](#indexes-data-structures)
+      - [B-Tree](#b-tree)
+      - [Trie Tree](#trie-tree)
       - [LSM-Tree](#lsm-tree)
       - [Learned Indexes Structures](#learned-indexes-structures)
     - [Query Execution \& Processing](#query-execution--processing)
@@ -65,6 +67,17 @@ The sections are as follows:
 - [ ] [An Evaluation of Distributed Concurrency Control, VLDB, 2017](https://www.vldb.org/pvldb/vol10/p553-harding.pdf)
 
 ### Indexes Data Structures
+
+#### B-Tree
+- [ ] [A Survey of B-Tree Locking Techniques, in TODS, 2010](https://15721.courses.cs.cmu.edu/spring2020/papers/06-oltpindexes1/a16-graefe.pdf)
+- [ ] [The Bw-Tree: A B-tree for New Hardware, in ICDE, 2013](https://15721.courses.cs.cmu.edu/spring2020/papers/06-oltpindexes1/bwtree-icde2013.pdf)
+- [ ] [Building A Bw-Tree Takes More Than Just Buzz Words, in SIGMOD, 2018](https://15721.courses.cs.cmu.edu/spring2020/papers/06-oltpindexes1/mod342-wangA.pdf)
+
+#### Trie Tree
+- [ ] [The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases, in ICDE, 2013](https://15721.courses.cs.cmu.edu/spring2020/papers/07-oltpindexes2/leis-icde2013.pdf)
+- [ ] [Cache Craftiness for Fast Multicore Key-Value Storage, EuroSys, 2012](https://dspace.mit.edu/bitstream/handle/1721.1/72690/Morris_Cache%20craftiness.pdf?sequence=1&isAllowed=y)
+- [ ] [The ART of Practical Synchronization, in DaMoN, 2016](https://15721.courses.cs.cmu.edu/spring2020/papers/07-oltpindexes2/leis-damon2016.pdf)
+
 #### LSM-Tree
 - [ ] [The Log-Structured Merge-Tree (LSM-Tree), 1996](https://www.cs.umb.edu/~poneil/lsmtree.pdf)
 - [ ] [A Comparison of Fractal Trees to Log-Structured Merge (LSM) Trees, 2014](http://www.pandademo.com/wp-content/uploads/2017/12/A-Comparison-of-Fractal-Trees-to-Log-Structured-Merge-LSM-Trees.pdf)
