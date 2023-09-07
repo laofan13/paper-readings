@@ -47,6 +47,7 @@ The sections are as follows:
 - [ ] [Orca: A Modular Query Optimizer Architecture for Big Data, 2014, SIGMOD](http://15721.courses.cs.cmu.edu/spring2016/papers/p337-soliman.pdf)
 - [ ] [The MemSQL Query Optimizer: A modern optimizer for real-time analytics in a distributed database, VLDB, 2016](http://www.vldb.org/pvldb/vol9/p1401-chen.pdf)
 - [ ] [How Good Are Query Optimizers, Really?, 2015](https://15721.courses.cs.cmu.edu/spring2020/papers/22-costmodels/p204-leis.pdf)
+- [ ] [ Apache Calcite: A Foundational Framework for Optimized Query Processing Over Heterogeneous Data Sources, 2018](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://dl.acm.org/doi/pdf/10.1145/3183713.3190662)
 
 ### Transaction
 - [ ]  [On Optimistic Methods for Concurrency Control, ACM Transactions on Database Systems， 1981]()
