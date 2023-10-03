@@ -9,12 +9,12 @@ The sections are as follows:
     - [Survey](#survey)
     - [Query Optimizer](#query-optimizer)
     - [Transaction](#transaction)
-    - [Indexes Data Structures](#indexes-data-structures)
+    - [Storage Structures](#storage-structures)
       - [B-Tree](#b-tree)
       - [Trie Tree](#trie-tree)
       - [LSM-Tree](#lsm-tree)
       - [Learned Indexes Structures](#learned-indexes-structures)
-    - [Query Execution \& Processing](#query-execution--processing)
+    - [Query Execution](#query-execution)
     - [Query Compilation](#query-compilation)
     - [Data warehouse and Datalake](#data-warehouse-and-datalake)
     - [NoSQL Systems](#nosql-systems)
@@ -67,7 +67,7 @@ The sections are as follows:
 - [X]  [An Empirical Evaluation of In-Memory Multi-Version Concurrency Control, VLDB, 2017](http://www.vldb.org/pvldb/vol10/p781-Wu.pdf)
 - [ ] [An Evaluation of Distributed Concurrency Control, VLDB, 2017](https://www.vldb.org/pvldb/vol10/p553-harding.pdf)
 
-### Indexes Data Structures
+### Storage Structures
 
 #### B-Tree
 - [ ] [A Survey of B-Tree Locking Techniques, in TODS, 2010](https://15721.courses.cs.cmu.edu/spring2020/papers/06-oltpindexes1/a16-graefe.pdf)
@@ -92,7 +92,7 @@ The sections are as follows:
 - [ ] [The PGM-index: a fully-dynamic compressed learned index with provable worst-case bounds, Source Code, VLDB, 2020](https://dl.acm.org/doi/pdf/10.1145/3332466.3374547)
 - [ ] [From WiscKey to Bourbon: A Learned Index for Log-Structured Merge Trees, 2020](http://pages.cs.wisc.edu/~yifann/bourbon-osdi20.pdf)
 
-### Query Execution & Processing
+### Query Execution
 - [ ] [Volcano-An Extensible and Parallel Query Evaluation System, IEEE Transactions on Knowledge and Data EngineeringFebruary, 1994](https://paperhub.s3.amazonaws.com/dace52a42c07f7f8348b08dc2b186061.pdf)
 - [ ] [MonetDB/X100: Hyper-Pipelining Query Execution, 2005](https://15721.courses.cs.cmu.edu/spring2018/papers/18-execution/boncz-cidr2005.pdf)
 - [ ] [Vectorization vs. Compilation in Query Execution, 2011](https://15721.courses.cs.cmu.edu/spring2016/papers/p5-sompolski.pdf)
@@ -101,10 +101,13 @@ The sections are as follows:
 - [ ] [Push vs. Pull-Based Loop Fusion in Query Engines, 2016](https://arxiv.org/abs/1610.09166)
 
 ### Query Compilation
+- [ ] [Efficiently Compiling Efficient Query Plans for Modern Hardware, in VLDB, 2011](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/p539-neumann.pdf)
+- [ ] [How to Architect a Query Compiler, in SIGMOD, 2016] (https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/shaikhha-sigmod2016.pdf)
 
 ### Data warehouse and Datalake
 - [ ] [The Snowflake Elastic Data Warehouse, SIGMOD, 2016](https://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p215-dageville-snowflake.pdf)
 - [ ] [Building An Elastic Query Engine on Disaggregated Storage, NSDI, 2020](https://www.usenix.org/system/files/nsdi20-paper-vuppalapati.pdf)
+- [ ] [Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics, in CIDR, 2021](https://15721.courses.cs.cmu.edu/spring2023/papers/02-modern/armbrust-cidr21.pdf)
 
 ### NoSQL Systems
 - [ ] [Bigtable: A Distributed Storage System for Structured Data, OSDI, 2006](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
@@ -137,7 +140,6 @@ The sections are as follows:
 
 ### Consensus Algorithms
 - [x] [The Part-Time Parliament, TOCS 1998](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
-
 
 ### Consensus in production
 This section lists papers describing experiences of deploying distributed consensus in production.
