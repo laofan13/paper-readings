@@ -102,7 +102,7 @@ The sections are as follows:
 
 ### Query Compilation
 - [ ] [Efficiently Compiling Efficient Query Plans for Modern Hardware, in VLDB, 2011](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/p539-neumann.pdf)
-- [ ] [How to Architect a Query Compiler, in SIGMOD, 2016] (https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/shaikhha-sigmod2016.pdf)
+- [ ] [How to Architect a Query Compiler, in SIGMOD, 2016](https://15721.courses.cs.cmu.edu/spring2023/papers/09-compilation/shaikhha-sigmod2016.pdf)
 
 ### Data warehouse and Datalake
 - [ ] [The Snowflake Elastic Data Warehouse, SIGMOD, 2016](https://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p215-dageville-snowflake.pdf)
